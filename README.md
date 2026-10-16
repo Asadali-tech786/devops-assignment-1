@@ -21,3 +21,5 @@ Git is a version control system that tracks file changes, while GitHub is a clou
 ## Tools Used
 * GitHub website
 * Web browser
+## Branch Practice
+I created the assignment-notes branch to practise isolated changes.
